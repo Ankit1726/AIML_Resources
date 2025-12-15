@@ -1,0 +1,2 @@
+Directory: AIML
+mysql passoword: Password@

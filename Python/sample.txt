@@ -1,0 +1,76 @@
+If you are planning to enter AI / ML as a fresher in 2026, the short answer is:
+yes, it is worth it, but only if you prepare seriously and strategically.
+
+Let’s go deep into why, what the market looks like, what jobs actually exist, how tough it is for freshers, and what you should do between now and 2026 to be in the top group of candidates.
+
+1. Why AI / ML is such a big deal right now
+Artificial Intelligence is no longer just a research topic. It is running search engines, recommendation systems, fraud detection, self driving, medical diagnosis, chatbots, and a lot more.
+
+Key points:
+- The global AI market is projected to grow massively from 2023 to 2033.
+- AI skills are now needed across industries, not just tech giants.
+
+2. Job roles in AI / ML
+Common roles:
+- Data Analyst
+- Data Scientist
+- ML Engineer
+- AI Engineer
+- NLP Engineer
+- Computer Vision Engineer
+- Data Engineer
+
+3. Job market trends
+Reports consistently show:
+- AI is among the fastest growing job categories.
+- India is seeing rapid growth in AI / ML hiring.
+- Companies are hiring aggressively for AI roles.
+
+4. Will AI kill jobs?
+AI will replace some tasks but create new jobs focused on AI integration, automation, and model management.
+
+5. Entry level difficulty
+Entry level AI jobs are competitive but still achievable with the right skills and strong projects.
+
+6. Is it worth entering AI / ML in 2026?
+Yes, if you put in focused effort.
+No, if you expect quick results without skills.
+
+7. Skills needed by 2026
+- Python and coding fundamentals
+- Math for ML
+- Data analysis
+- Classical ML algorithms
+- Deep learning basics
+- LLMs, RAG, prompt design
+- Basic MLOps and deployment
+
+8. Project strategy
+Focus on:
+- End to end ML projects
+- LLM applications
+- Domain specific work
+- Clean documentation and deployment
+
+9. Timeline for preparation (2024–2026)
+Phase 1: Foundations  
+Phase 2: Core ML  
+Phase 3: Deep learning + LLMs  
+Phase 4: Product + Interview prep
+
+10. Salary and growth
+AI roles generally pay above average and grow into high leadership or specialist positions.
+
+11. Risks
+High competition, fast changing tools, economic cycles.
+
+12. Final verdict
+It is worth entering AI / ML in 2026 if you prepare with discipline and build real projects.
+
+13. What to do next
+- Master Python + SQL
+- Build 2 ML projects
+- Build 1–2 LLM projects
+- Improve portfolio
+- Apply broadlys
+- Python
