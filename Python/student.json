@@ -1,0 +1,12 @@
+{
+   "student_id": 101,
+   "name": "Ankit Gupta",
+   "age": 21,
+   "gender": "Male",
+   "course": "BTech",
+   "math_score": 85,
+   "science_score": 78,
+   "english_score": 88,
+   "attendance_percentage": 92,
+   "passed": true
+}

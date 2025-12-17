@@ -1,0 +1,22 @@
+{
+     "sales": [
+          {
+               "order_id": "ORD1001",
+               "product": "Laptop",
+               "category": "Electronics",
+               "price": 55000,
+               "quantity": 1,
+               "order_date": "2024-11-05",
+               "customer_region": "North"
+          },
+          {
+               "order_id": "ORD1002",
+               "product": "Mobile",
+               "category": "Electronics",
+               "price": 18000,
+               "quantity": 2,
+               "order_date": "2024-11-06",
+               "customer_region": "South"
+          }
+     ]
+}
