@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <title>Student Final Result</title>
+
+     <!-- Result Page CSS -->
+     <link rel="stylesheet" href="{{ url_for('static', filename='result.css') }}">
+</head>
+
+<body>
+
+     <div class="result-wrapper">
+          <h2>Final Results</h2>
+
+          <div class="result-card">
+               {% for key, value in results.items() %}
+               <div class="result-row">
+                    <span class="subject">{{ key }}</span>
+                    <span class="marks">{{ value }}</span>
+               </div>
+               {% endfor %}
+          </div>
+
+          <a href="/submit" class="btn">Enter Marks Again</a>
+          <a href="/" class="btn secondary">Home</a>
+     </div>
+
+</body>
+
+</html>

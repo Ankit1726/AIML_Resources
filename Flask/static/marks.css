@@ -1,0 +1,96 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+     min-height: 100vh;
+     background: linear-gradient(135deg, #4facfe, #00f2fe);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+/* Main Form Card */
+.form-wrapper {
+     background: #ffffff;
+     width: 100%;
+     max-width: 450px;
+     padding: 40px 45px;
+     border-radius: 16px;
+     box-shadow: 0 20px 45px rgba(0, 0, 0, 0.25);
+}
+
+/* Heading */
+.form-wrapper h2 {
+     text-align: center;
+     color: #222;
+     margin-bottom: 8px;
+     font-size: 26px;
+}
+
+.form-wrapper p {
+     text-align: center;
+     color: #666;
+     font-size: 14px;
+     margin-bottom: 30px;
+}
+
+/* Input Group */
+.input-group {
+     margin-bottom: 18px;
+}
+
+.input-group label {
+     display: block;
+     font-size: 14px;
+     color: #444;
+     margin-bottom: 6px;
+     font-weight: 600;
+}
+
+.input-group input {
+     width: 100%;
+     padding: 11px 12px;
+     border-radius: 8px;
+     border: 1px solid #ccc;
+     font-size: 14px;
+     transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+/* Input Focus */
+.input-group input:focus {
+     outline: none;
+     border-color: #4facfe;
+     box-shadow: 0 0 0 3px rgba(79, 172, 254, 0.2);
+}
+
+/* Submit Button */
+button {
+     width: 100%;
+     padding: 12px;
+     background: linear-gradient(135deg, #4facfe, #00c6fb);
+     color: #ffffff;
+     border: none;
+     border-radius: 25px;
+     font-size: 15px;
+     font-weight: 600;
+     cursor: pointer;
+     margin-top: 10px;
+     transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Button Hover */
+button:hover {
+     transform: translateY(-2px);
+     box-shadow: 0 10px 25px rgba(79, 172, 254, 0.4);
+}
+
+/* Mobile Responsive */
+@media (max-width: 500px) {
+     .form-wrapper {
+          padding: 30px 25px;
+     }
+}

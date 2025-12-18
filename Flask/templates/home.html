@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <title>Student Result Portal</title>
+
+     <!-- CSS -->
+     <link rel="stylesheet" href="{{ url_for('static', filename='home.css') }}">
+</head>
+
+<body>
+
+     <div class="home-container">
+          <h1>Student Result Portal</h1>
+          <p class="subtitle">
+               Enter marks and view student results instantly
+          </p>
+
+          <div class="card">
+               <h2>Check Your Result</h2>
+               <p>
+                    This portal allows students to submit subject marks
+                    and instantly view their average score and result status.
+               </p>
+
+               <a href="/submit" class="btn">Enter Your Marks</a>
+          </div>
+
+          <footer>
+               <p>Built with Flask • Python Backend</p>
+          </footer>
+     </div>
+
+</body>
+
+</html>
