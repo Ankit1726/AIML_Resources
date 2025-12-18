@@ -1,0 +1,27 @@
+[
+     {
+          "id": 1,
+          "name": "Laptop",
+          "description": "High performance laptop for development work"
+     },
+     {
+          "id": 2,
+          "name": "Smartphone",
+          "description": "Latest generation smartphone with advanced features"
+     },
+     {
+          "id": 3,
+          "name": "Headphones",
+          "description": "Noise cancelling wireless headphones"
+     },
+     {
+          "id": 4,
+          "name": "Keyboard",
+          "description": "Mechanical keyboard with backlight support"
+     },
+     {
+          "id": 5,
+          "name": "Monitor",
+          "description": "24 inch full HD monitor suitable for coding and design"
+     }
+]
