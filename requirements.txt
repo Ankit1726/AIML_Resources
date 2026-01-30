@@ -11,3 +11,4 @@ streamlit
 scikit-learn
 memory_profiler
 scipy
+joblib
