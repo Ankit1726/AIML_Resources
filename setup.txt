@@ -6,3 +6,5 @@
 ## Mysql Setup
 Directory: AIML
 mysql passoword: Password@
+Projects Gallery
+https://github.com/KalyanM45/AI-Project-Gallery
