@@ -1,4 +1,4 @@
--- SQL Fundamentals Day 61
+-- SQL Fundamentals Practice Problem
 
 create database college;
 use college;

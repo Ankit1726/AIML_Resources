@@ -1,4 +1,4 @@
--- SQL Fundamentals Day 62
+-- SQL Fundamentals Day 60
 
 use college;
 
