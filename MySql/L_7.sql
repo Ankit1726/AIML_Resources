@@ -1,4 +1,4 @@
--- SQL Fundamentals Day 63
+-- SQL Fundamentals Day 61
 
 create database office;
 use office;
@@ -58,6 +58,5 @@ SELECT Department, COUNT(*) AS EmployeeCount
 FROM Employee
 GROUP BY Department
 HAVING COUNT(*) > 2;
-
 
 select* from Employee;
