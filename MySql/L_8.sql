@@ -1,4 +1,4 @@
--- SQL Fundamentals Day 64
+-- SQL Fundamentals Day 62
 
 create database BankServer;
 use BankServer;
