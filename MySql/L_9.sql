@@ -1,4 +1,4 @@
--- SQL Fundamentals Day 65
+-- SQL Fundamentals Day 63
 
 create database restuarent;
 use restuarent;
