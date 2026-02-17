@@ -1,4 +1,4 @@
--- SQL Fundamentals Day 69
+-- SQL Fundamentals Day 66
  
 use bankserver;
 select * from accounts;
