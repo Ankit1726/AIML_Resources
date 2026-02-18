@@ -1,4 +1,4 @@
--- SQL Fundamentals Day 67
+-- SQL Fundamentals Day 64
 
 -- Index in SQL
 use bankserver;

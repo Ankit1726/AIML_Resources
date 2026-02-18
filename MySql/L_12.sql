@@ -1,4 +1,4 @@
--- SQL Fundamentals Day 68
+-- SQL Fundamentals Day 65
 
 use bankserver;
 select * from acc_record;
