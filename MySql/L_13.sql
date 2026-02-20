@@ -1,5 +1,4 @@
 -- SQL Fundamentals Day 66
- 
 use bankserver;
 select * from accounts;
 
@@ -12,7 +11,6 @@ begin
      from accounts
      where id = acc_id;
 end $$
-     
 call check_bal(101);
 
 -- Stored Procedure
